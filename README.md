@@ -32,10 +32,7 @@ Create the necessary components for your dictionary platform:
 
 ## Screenshorts
 
-    Dictionary
+ ![Screenshot_20230725_213745](https://github.com/Mohanjmb/online-dictonary/assets/103569350/1ed7b4a7-6a85-4e9d-9b4b-b69fb09579af)
 
-   <img src= "https://github-production-user-asset-6210df.s3.amazonaws.com/103558082/255392524-4335819e-d9b7-4d31-947c-ee0e042d6585.png">
-    
-    Word Explaination
-    
-   <img src= "https://github-production-user-asset-6210df.s3.amazonaws.com/103558082/255392540-7e951a3b-e36c-4405-b4d1-725537d73567.png">
+ ![Screenshot_20230725_213712](https://github.com/Mohanjmb/online-dictonary/assets/103569350/8c518e9f-50df-45e5-b0a6-921e9f27f278)
+
